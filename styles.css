@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color:yellow;
+
+}
+h1{
+    text-align: center;
+    color: chocolate;
+    padding-bottom: 0.7cm;
+    font-weight: bolder;
+}
+li{
+    color: chocolate;
+    margin-bottom: 0.5cm;
+}
+.link{
+    color: chocolate;
+    font-weight: bold;
+}
+img{
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    color: chocolate;
+}
+
+
